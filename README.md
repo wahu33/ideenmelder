@@ -4,7 +4,7 @@ Die Anwendung ermöglicht die Markierung von Standorten in einem begrenzten Bezi
 
 Die Idee zu dieser Anwendung kam durch einen Artikel in der ADFC-Zeitschrift Radwelt zu Ibbenbüren, wo Vorschläge zur Verkehrsinfrastruktur über eine Webanwendung erfasst wurden. Ich habe diese Idee übernommen und neu programmiert. Eine Demoanwendung findet man unter  https://karte.hpadm.de  (Login: test  Passwort: testtest)
 
-Es sind aus meiner Sicht aber auch viele andere Anwendungsmöglichkeiten denkbar, z.B. Erfassung/Meldung von Eichenprozessionsspinnern, Markierung/Erfassung von Stromtankstellen etc. 
+Es sind aus meiner Sicht aber auch viele andere Anwendungsmöglichkeiten denkbar, z.B. Erfassung/Meldung von Eichenprozessionsspinnern, Markierung/Erfassung von Stromtankstellen etc..
 
 ## Installation
 
@@ -26,7 +26,7 @@ Folgende Funktionalitäten können an- bzw. abgeschaltet werden:
 ### Reverse Georeferenzierung
 
 Aus den übermittelten Geodaten wird die Adresse ermittelt. Dazu wird der Dienst https://locationiq.com verwendet. Die Adressen werden nur im Backend angezeigt, um die Auswertung der Daten zu erleichtern.
-Für locationiq.com muss ein Api-Key beantragt werden. Dieser ist in der Datei /lib/geocoding.php einzutragen.
+Für locationiq.com muss ein Api-Key beantragt werden. Dieser ist in der Datei /lib/geocoding.php einzutragen. Für die Georeferenzierung kann auch 
 
 ---
 
