@@ -2,7 +2,7 @@
 
 Die Anwendung ermöglicht die Markierung von Standorten in einem begrenzten Bezirk (Stadt Hamm). Die Eingaben können beschrieben und bewertet werden. Das Hochladen von Bildern und das Kommentieren von Beiträgen ist möglich.
 
-Die Idee zu dieser Anwendung kam durch einen Artikel in der ADFC-Zeitschrift Radwelt zu Ibbenbüren, wo Vorschläge zur Verkehrsinfrastruktur über eine Webanwendung erfasst wurden. Ich habe diese Idee übernommen und neu programmiert. Eine Demoanwendung findet man unter  https://karte.hpadm.de  (Login: test  Passwort: testtest)
+Die Idee zu dieser Anwendung kam durch einen Artikel in der ADFC-Zeitschrift Radwelt zu Ibbenbüren, wo Vorschläge zur Verkehrsinfrastruktur über eine Webanwendung erfasst wurden. Ich habe diese Idee übernommen und neu programmiert. Eine Demoanwendung findet man unter  https://karte.hpadm.de  (Login: admin  Passwort: testtest)
 
 Es sind aus meiner Sicht aber auch viele andere Anwendungsmöglichkeiten denkbar, z.B. Erfassung/Meldung von Eichenprozessionsspinnern, Markierung/Erfassung von Stromtankstellen etc..
 
